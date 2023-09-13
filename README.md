@@ -20,3 +20,5 @@
 ^superscript^ ~subscript~
 <sup>superscript</sup>
 <sub>subscript</sub>
+
+[^1] : Footnote content
