@@ -1,3 +1,4 @@
 # gitlek
 # Main Section
-Term: Definition
+**Term**
+>Definition
