@@ -17,9 +17,22 @@
 3. Item 3
 4. Item 4
 
-^superscript^ ~subscript~
+^superscript^ 
+~subscript~
+
 <sup>superscript</sup>
 <sub>subscript</sub>
+
 This statement need a footnote [^1]
 
 [^1] : Footnote content
+
+1. List1
+    1. item1
+    2. item2
+    3. item3
+
+2. List2
+    1. item4
+    2. item 5
+3. List3
