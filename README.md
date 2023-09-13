@@ -4,5 +4,5 @@
 >Definition
 
 [Inline Link](https://www.google.com/)
-- [] Task
+- [ ] Task
 - [x] Completed Task
