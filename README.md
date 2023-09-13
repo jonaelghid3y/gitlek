@@ -17,4 +17,6 @@
 3. Item 3
 4. Item 4
 
-^Superscript^ ~Subscript~
+^superscript^ ~subscript~
+<sup>superscript</sup>
+<sub>subscript</sub>
