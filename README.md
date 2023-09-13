@@ -20,5 +20,5 @@
 ^superscript^ ~subscript~
 <sup>superscript</sup>
 <sub>subscript</sub>
-
+This statement need a footnote [^1]
 [^1] : Footnote content
