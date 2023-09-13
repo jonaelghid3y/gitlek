@@ -69,3 +69,11 @@ This statement need a footnote [^1]
 |-----|-----|-------|
 |Row1Col1|Row1Col2|Row1Col3|
 |Row2Col1|Row2Col2|Row2Col3|
+
+## Code Block
+
+```Javascript
+    function helloWorld() {
+    console.log("Hello, world!");
+}
+
